@@ -1,7 +1,7 @@
 name: RYDITEK
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.35642
+layout_spectrum: 0.9401566009037197
+typography_spectrum: 0.07304042135365307
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.875
+  brandStrength: 0.9636834906414151
   lightness: 0.9689730652607977
-  saturation: 0.75
-  rhythmicContrast: 0.75
+  saturation: 0.6792318993248045
+  rhythmicContrast: 0.7787301370408386
 purpose: []
